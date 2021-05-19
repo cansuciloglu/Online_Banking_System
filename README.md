@@ -2,9 +2,9 @@
  Online Banking System
 
 # THREE MODULE
-User Module
-Admin Module
-Bank Teller Module
+* User Module <br>
+* Admin Module <br>
+* Bank Teller Module <br>
 
 # TECHNOLOGY USED
 Spring boot for Autoconfiguration
@@ -13,10 +13,12 @@ JSP used for User Interface
 JPA , Hibernate used
 Database Used MySQL
 
-#PROJECT RUN COMMAND
+> #PROJECT RUN COMMAND
 - download zip forder
 - unzip and open folder with netbeans/eclipse ide
 - create a database name online_banking_system in mySQL
 - clean and build folder
 - finaly run maven Goals 
+
+Happy Coding :+1:
 
