@@ -14,7 +14,7 @@ JPA , Hibernate used
 Database Used MySQL
 
 > #PROJECT RUN COMMAND
-- download zip forder
+- download zip folder
 - unzip and open folder with netbeans/eclipse ide
 - create a database name online_banking_system in mySQL
 - clean and build folder
