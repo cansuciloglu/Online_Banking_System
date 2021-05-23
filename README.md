@@ -6,13 +6,6 @@
 * Admin Module <br>
 * Bank Teller Module <br>
 
-# TECHNOLOGY USED
-Spring boot for Autoconfiguration
-Spring MVC For Web application development
-JSP used for User Interface
-JPA , Hibernate used
-Database Used MySQL
-
 > #PROJECT RUN COMMAND
 - download zip folder
 - unzip and open folder with netbeans/eclipse ide
